@@ -1,0 +1,11 @@
+p{
+  color: red;
+}
+
+.logo{
+  background-image: url("../assets/webpack.png");
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  margin: 0 auto;
+}
